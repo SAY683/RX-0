@@ -24,7 +24,7 @@
 *   **左侧：控制面板** - 用于调整系统生成参数、选择可视化类型和控制系统行为。
 *   **右侧：显示区域** - 用于展示生成系统的可视化图表、系统摘要统计以及被点击节点的详细信息。
 
-![系统界面截图示例（请在此处想象或替换为实际截图）](![image](https://github.com/user-attachments/assets/d56a613f-33f4-4a40-bb60-ed3b4d38f717)
+([![image](https://github.com/user-attachments/assets/d56a613f-33f4-4a40-bb60-ed3b4d38f717](https://github.com/SAY683/RX-0/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-19%20091939.png))
 )
 
 ### 2.1 控制面板
